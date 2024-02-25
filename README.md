@@ -16,7 +16,7 @@
 
 This project aims to bring a revolution in waste management and disposal system. ReEco works with both buyers and sellers. This enables companies and startups working with reusing waste resourses for their product access to a wide variety of waste products at negotiable prices. ReEco offers coupons to the seller customer on successful pickup. ReEco aims to be one of the leading distributor of waste and recyclable materials.
 
-## Video Link :  https://youtu.be/DWH9Q_owl0Q
+## Video Link :  https://youtu.be/07SwpKUc9F8
 
 ## Features
 - The website handles both Seller and Buyer sections separately
